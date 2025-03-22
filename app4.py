@@ -3,7 +3,7 @@ import requests
 import json
 
 # Base API URL
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://agentic-tutor.onrender.com"
 
 # Customizing UI
 st.set_page_config(page_title="ML Concept Visualizer", page_icon="🤖", layout="wide")
