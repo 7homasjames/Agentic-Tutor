@@ -4,3 +4,4 @@ uvicorn
 streamlit
 requests
 autogen
+ag2[openai]
